@@ -1,8 +1,6 @@
 # FoodHub Data Analysis
 Exploratory data analysis of FoodHub customer orders using Python to identify customer behavior, restaurant performance, delivery efficiency, and business recommendations.
 
-# FoodHub Customer Order Analysis
-
 ## Project Overview
 
 This project was completed as part of the **Post Graduate Program in Artificial Intelligence** offered by **The University of Texas at Austin**.
